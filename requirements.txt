@@ -1,5 +1,0 @@
-asyncio
-discord
-colorama
-requests
-
